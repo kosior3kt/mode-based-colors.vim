@@ -11,7 +11,7 @@
 
 ## About
 mode-based-colors is a simple plugin to neovim, that allows you to have cursor, numbers and background change color when you change mode. 
-# Technically it is working flawlessly 69% of the time.
+#### Technically it is working flawlessly 69% of the time.
 
 Also I messed sth up with my dotfiles lately, so I'm not even sure if it works when downloaded from here.
 (Creating plugins with lua is so bloody complicated, why can't we all just use C...?)
