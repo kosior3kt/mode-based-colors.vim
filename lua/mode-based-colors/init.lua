@@ -1,4 +1,4 @@
-local setup, M, toggle = require('mode-based-colors.awesome-module')
+local setup, M, toggle = require('mode-based-colors.configuration')
 
 -- require('greetings.awesome-module').setup({
 --    colors = {
